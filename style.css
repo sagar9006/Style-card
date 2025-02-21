@@ -1,0 +1,51 @@
+
+        .box{
+            border: 2px solid black;
+            margin: 88px;
+            width: 400px;
+            padding: 15px;
+            border-radius: 20px;
+            margin-top: 40px;
+            box-shadow: 2px 10px 12px;
+            overflow: auto;
+
+        }
+        img{
+            display: block;
+            border-radius: 15px;
+            margin-bottom: 10px;
+         }
+
+        button{
+            padding: 8px 10px;
+            font-size: 15px;
+            border-radius: 20px;
+            color: rgb(26, 29, 29);
+            /* box-shadow: 1px 1px 1px; */
+            background-color: rgb(178, 232, 235);
+            color: black;
+            display: block;
+            margin: auto;
+
+        }
+        button:hover{
+                background-color: rgb(42, 192, 132);
+        }
+        
+        .box1{
+            border: 2px solid black;
+            margin: 80px;
+            width: 600px;
+            height: 750px;
+        }
+        .content{
+            margin: 0 7px;
+        }
+        span{
+            border: 2px solid black;
+            background-color: rgb(124, 198, 198);
+            border-radius: 15px;
+            padding: 5px;
+            margin: 4px;
+        }
+    
